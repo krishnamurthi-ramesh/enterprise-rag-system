@@ -8,13 +8,13 @@ A production-ready **Retrieval Augmented Generation (RAG)** system with comprehe
 
 ## ✨ Key Features
 
-- 📄 **Multi-format Document Support**: PDF, DOCX, TXT, and Markdown files
-- 🔍 **Advanced Vector Search**: FAISS-powered semantic similarity search
-- 🤖 **Flexible LLM Integration**: Support for both local (Ollama) and cloud (OpenAI) models
-- 📊 **Comprehensive Evaluation**: Built-in metrics for retrieval and answer quality
-- 🎯 **Citation System**: Automatic source attribution for generated answers
-- 🖥️ **Interactive Web Interface**: Streamlit-based demo with real-time visualization
-- ⚡ **Performance Monitoring**: Latency tracking and retrieval metrics
+- **Multi-format Document Support**: PDF, DOCX, TXT, and Markdown files
+- **Advanced Vector Search**: FAISS-powered semantic similarity search
+- **Flexible LLM Integration**: Support for both local (Ollama) and cloud (OpenAI) models
+- **Comprehensive Evaluation**: Built-in metrics for retrieval and answer quality
+- **Citation System**: Automatic source attribution for generated answers
+- **Interactive Web Interface**: Streamlit-based demo with real-time visualization
+- **Performance Monitoring**: Latency tracking and retrieval metrics
 
 ## 🏗️ Architecture
 
@@ -37,7 +37,7 @@ Enterprise RAG System
 └── README.md                   # This file
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
@@ -49,7 +49,7 @@ Enterprise RAG System
 | **Visualization** | Plotly + Matplotlib | Charts and performance graphs |
 | **Processing** | LangChain + PyPDF2 | Document parsing and chunking |
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
